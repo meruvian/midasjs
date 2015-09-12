@@ -1,0 +1,11 @@
+body.login-box {
+	width: 100%;
+	margin: 7% auto;
+}
+
+@media (min-width: 768px) {
+	.vertical-align {
+		display: flex;
+		align-items: center;
+	}
+}
