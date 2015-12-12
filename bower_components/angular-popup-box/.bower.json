@@ -1,0 +1,30 @@
+{
+  "name": "angular-popup-box",
+  "homepage": "https://github.com/ericprieto/angular-popup-box",
+  "authors": [
+    "Eric Prieto <ericprieto@live.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angular": "~1.2.21",
+    "jquery": "~2.1.1",
+    "angular-bootstrap": "~0.11.0"
+  },
+  "_release": "b4a4a2b80e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b4a4a2b80eb128b15018bff594f0b40129bcf5bb"
+  },
+  "_source": "git://github.com/ericprieto/angular-popup-boxes.git",
+  "_target": "*",
+  "_originalSource": "ericprieto/angular-popup-boxes"
+}
