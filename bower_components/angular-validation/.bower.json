@@ -28,11 +28,11 @@
     "ui-select": "angular-ui-select#~0.13.2",
     "ngSanitize": "~0.0.2"
   },
-  "_release": "37d4f87739",
+  "_release": "3aa43801eb",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "37d4f87739460c80d8ff43a39bc3f48fed624034"
+    "commit": "3aa43801ebb7686f6c29e8f63ad3205450b943e2"
   },
   "_source": "git://github.com/huei90/angular-validation.git",
   "_target": "master",
